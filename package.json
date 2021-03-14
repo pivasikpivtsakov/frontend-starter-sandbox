@@ -1,0 +1,27 @@
+{
+    "name": "frontend-starter-sandbox",
+    "version": "1.0.0",
+    "description": "shit",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "mocha tests/* && exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pivasikpivtsakov/frontend-starter-sandbox.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pivasikpivtsakov/frontend-starter-sandbox/issues"
+    },
+    "homepage": "https://github.com/pivasikpivtsakov/frontend-starter-sandbox#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^4.3.4",
+        "mocha": "^8.3.2"
+    }
+}
